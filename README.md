@@ -1,2 +1,6 @@
-VB.Net_Sample_For_ODP
+これは何？
 =====================
+2008年頃にVB.Netの勉強がてら作成したものです。
+ODPを使い、Oracle10gR2にアクセスします。
+select、update、insert、及びストアドプロシージャの実行ができます。
+
